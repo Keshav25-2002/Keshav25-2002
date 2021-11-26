@@ -13,3 +13,10 @@ Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
 
 👯 I’m looking to collaborate on Kaggle competitions
 
+Hobbies and Interest :
+
+1.Travelling
+
+2. Food 
+
+3. Coding
