@@ -30,3 +30,5 @@ Hobbies and Interest :
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav25-2002)](https://github.com/Keshav25-2002/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav25-2002&layout=compact)](https://github.com/Keshav25-2002/github-readme-stats)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Keshav25-2002&repo=github-readme-stats)](https://github.com/Keshav25-2002/github-readme-stats)
