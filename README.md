@@ -29,15 +29,6 @@ Hobbies and Interest :
 
 3.Coding
 
-[![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keshav25-2002)](https://github.com/Keshav25-2002/github-readme-stats)
-
-![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keshav25-2002&show_icons=true)
-
-![Keshav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Keshav25-2002&show_icons=true&theme=radical)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav25-2002)](https://github.com/Keshav25-2002/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav25-2002&layout=compact)](https://github.com/Keshav25-2002/github-readme-stats)
 
 ![](https://komarev.com/ghpvc/?username=Keshav25-2002)
 
