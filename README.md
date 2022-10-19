@@ -10,7 +10,7 @@ Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keshavprasaath2002) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keshavprasaath2002/) 
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
@@ -19,15 +19,6 @@ Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
 ![](https://github-readme-stats.vercel.app/api?username=Keshav25-2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Keshav25-2002&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Keshav25-2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-
-Hobbies and Interest :
-
-1.Travelling
-
-2.Food 
-
-3.Coding
 
 
 ![](https://komarev.com/ghpvc/?username=Keshav25-2002)
