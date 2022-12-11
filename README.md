@@ -13,7 +13,22 @@ Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keshavprasaath2002/) 
 
 # 💻 Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![CSS3](https://img.shields.io/badge/machinelearning-%231572B6.svg?style=for-the-badge&logo=NLP&logoColor=white) ![HTML5](https://img.shields.io/badge/deeplearning-%23E34F26.svg?style=for-the-badge&logo=NLP&logoColor=white) ![Java](https://img.shields.io/badge/naturalleaningprocess-%23ED8B00.svg?style=for-the-badge&logo=NLP&logoColor=white) ![JavaScript](https://img.shields.io/badge/regex-%23323330.svg?style=for-the-badge&logo=NLP&logoColor=%23F7DF1E) ![C++](https://img.shields.io/badge/tesorflow-%2300599C.svg?style=for-the-badge&logo=NLP%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/selenium-%2300599C.svg?style=for-the-badge&logo=NLP&logoColor=white) ![Bootstrap](https://img.shields.io/badge/beautifulsoup-%23563D7C.svg?style=for-the-badge&logo=NLP&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/scikitlearn-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![SASS](https://img.shields.io/badge/KERAS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
+<p align="left"> 
+    <a href="https://www.python.org" target="_blank"> <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> </a>
+    <a href="https://pandas.pydata.org/" target="_blank"> <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white"/> </a> 
+    <a href="https://numpy.org/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"> </a>
+    <a href="https://jupyter.org/" target="_blank"> <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"/> </a>
+    <a href="https://scikit-learn.org/stable/" target="_blank"> <img src="https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit learn&logoColor=white"/> </a> 
+  <a href="https://plotly.com/" target="_blank"> <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white"/> </a>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/> </a>
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/> </a> 
+    <img src="https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white"/></a>
+<a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank"> <img src="https://img.shields.io/badge/Flask-000000?style=for-the- badge&logo=flask&logoColor=white"/></a>
+<a href="https://www.heroku.com" target="_blank"> <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white"/> </a>
+    <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank"> <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white"/> </a> 
+    <a href="https://powerbi.microsoft.com/en-au/" target="_blank"> <img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white"/> </a>
+</p>
+<br/>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Keshav25-2002&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
