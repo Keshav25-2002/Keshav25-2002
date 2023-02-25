@@ -1,12 +1,19 @@
 #   Keshav25-2002
-I am Keshava Prasaath. I am a Data Science enthusiast, with skills in Machine Learning, Deep Learning and NLP. I have worked on frameworks such as Tensorflow, Keras, Scikit-learn. I have built several projects with machine learning, deep learning, SQL and NLP. I am also having good programming skills in Python and SQL, basic programming skills in java, along with the knowledge of Data Structures and Algorithms.
-My key skills in data science projects include EDA, feature Engineering and Data Cleaning
+
+Hello and welcome to my GitHub profile! I'm Keshav, a student currently pursuing my Bachelor's degree in Computer Applications. While I may be relatively new to the world of data science, I am excited about the potential of this field to transform industries and improve people's lives.
+
+Although I am still learning, I have a strong foundation in programming languages such as Python, ML,Natural Language Processing and Deep Learning and I have completed several courses on data analysis and machine learning. I am eager to continue building my skills and knowledge in these areas, and I am excited about the prospect of contributing to meaningful data science projects.
+
+As a student, I am used to working hard and collaborating with others, and I am excited to connect with like-minded individuals in the data science community. I am always looking for opportunities to learn and grow, and I am eager to take on new challenges.
+
+Thank you for visiting my profile, and please feel free to reach out to me if you have any questions or would like to collaborate on a project. I look forward to connecting with you!
+
 
 Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
 
 
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning Projects<br><br>🌱 I’m currently learning AutoML and other high end DL models<br><br>👯 I’m looking to collaborate on Kaggle competitions<br>
+🔭 I’m currently working on Computer Vision Projects<br><br>🌱 I’m currently learning MLOps and AIOps and other technologies<br><br>👯 I’m looking to collaborate on Kaggle competitions<br>
 
 
 ## 🌐 Socials:
