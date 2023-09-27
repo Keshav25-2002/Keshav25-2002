@@ -13,7 +13,7 @@ Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
 
 
 # 💫 About Me:
-🔭 I’m currently working on Computer Vision Projects<br><br>🌱 I’m currently learning MLOps and AIOps and other technologies<br><br>👯 I’m looking to collaborate on Kaggle competitions<br>
+🔭 I’m currently working on Forecasting Projects<br><br>🌱 I’m currently learning Cloud<br><br>
 
 
 ## 🌐 Socials:
