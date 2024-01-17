@@ -13,8 +13,7 @@ Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
 
 
 # 💫 About Me:
-🔭 I’m currently working on Forecasting Projects<br><br>🌱 I’m currently learning Cloud<br><br>
-
+🔭 I’m currently working on Chatbot Projects<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keshavprasaath2002/) 
