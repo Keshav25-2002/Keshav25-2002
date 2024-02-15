@@ -1,8 +1,8 @@
 #   Keshav25-2002
 
-Hello and welcome to my GitHub profile! I'm Keshav, a student currently pursuing my Bachelor's degree in Computer Applications. While I may be relatively new to the world of data science, I am excited about the potential of this field to transform industries and improve people's lives.
+Hello and welcome to my GitHub profile! I'm Keshav, a software developer, pursued my Bachelor's degree in Computer Applications. While I may be relatively new to the world of data science & Web Development, I am excited about the potential of this field to transform industries and improve people's lives.
 
-Although I am still learning, I have a strong foundation in programming languages such as Python, ML,Natural Language Processing and Deep Learning and I have completed several courses on data analysis and machine learning. I am eager to continue building my skills and knowledge in these areas, and I am excited about the prospect of contributing to meaningful data science projects.
+Although I am still learning, I have a strong foundation in programming languages such as HTML,CSS,BS5,JavaScript, Python, ML,Natural Language Processing,MongoDB,Mysql server, and Deep Learning. I have completed several courses on data analysis and machine learning. I am eager to continue building my skills and knowledge in these areas, and I am excited about the prospect of contributing to meaningful data science projects.
 
 As a student, I am used to working hard and collaborating with others, and I am excited to connect with like-minded individuals in the data science community. I am always looking for opportunities to learn and grow, and I am eager to take on new challenges.
 
@@ -13,7 +13,7 @@ Skills: Python / Machine Learning / Deep Learning / NLP / Feature Engineering
 
 
 # 💫 About Me:
-🔭 I’m currently working on Chatbot Projects<br><br>
+🔭 I’m currently working on Full Stack Web DEv Projects<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/keshavprasaath2002/) 
